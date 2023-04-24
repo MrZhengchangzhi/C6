@@ -1,0 +1,5 @@
+﻿  test3.23.c
+E:\VS\VS 项目\test.2023.3.23\test.2023.3.23\test3.23.c(61,7): warning C4047: “初始化”:“char *(__cdecl *)(char *,char *)”与“char **”的间接级别不同
+E:\VS\VS 项目\test.2023.3.23\test.2023.3.23\test3.23.c(62,35): warning C4047: “初始化”:“char *(__cdecl *)(char *,char *)”与“char *”的间接级别不同
+E:\VS\VS 项目\test.2023.3.23\test.2023.3.23\test3.23.c(56): warning C4716: “strcpy”: 必须返回一个值
+  test.2023.3.23.vcxproj -> E:\VS\VS 项目\test.2023.3.23\x64\Debug\test.2023.3.23.exe
